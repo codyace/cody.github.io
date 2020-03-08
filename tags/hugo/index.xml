@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hugo on codyace - Github Page</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in hugo on codyace - Github Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 07 Mar 2020 17:23:23 +0800</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hogo Github Page</title>
+      <link>http://localhost:1313/post/hogo-github-page/</link>
+      <pubDate>Sat, 07 Mar 2020 17:23:23 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/hogo-github-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>第二</title>
+      <link>http://localhost:1313/post/%E7%AC%AC%E4%BA%8C/</link>
+      <pubDate>Sat, 07 Mar 2020 16:36:42 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/%E7%AC%AC%E4%BA%8C/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
